@@ -1,5 +1,6 @@
 ## ML-Model-Flask-Deployment
-This is a demo project to elaborate how Machine Learn Models are deployed on production using Flask API
+This is a demo project to elaborate how Machine Learn Models are deployed on production using Flask API. 
+Deployed on Heroku at http://webapp-shirobi.herokuapp.com/
 
 ### Prerequisites
 You must have Scikit Learn, Pandas (for Machine Leraning Model) and Flask (for API) installed.
